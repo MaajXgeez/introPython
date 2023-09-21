@@ -9,15 +9,17 @@
 numberOfApples = 10
 numberOfOranges = 12
 
-numberOfApples < numberOfOranges
+numberOfApples < numberOfOranges the + operator is being used 
 
 # 5. You have been given a $100.00 dollar gift card from a family member. Another 
 # family member adds 50.00 dollars to your gift card and a friend gives you $35.50. 
 # Your task is to create variables for each gift amount and a final variable that
-# represents the total amount of money on your gift card.  a b c d
+# represents the total amount of money on your gift card.                            a b c d
 
 # 6. Create a variable that uses the input function and then print that variable. Your variable 
-# should ask a user to enter their name.  print "whats your name" 
+# should ask a user to enter their name.       
+ print('whats your name')
+
 
 
 # 7. You have been asked to create a program for a community center that wants to plan a cookout. 
@@ -34,4 +36,6 @@ numberOfApples < numberOfOranges
 
 # 9. In your own words, describe what a program is?  set of instructions that a computer follows in order to perform a particular task
 
-# 10. Describe the difference between a float and an integer. An integer (more commonly called an int) is a number without a decimal point. A float is a floating-point number, which means it is a number that has a decimal place
+# 10. Describe the difference between a float and an integer. An integer 
+# 
+ (more commonly called an int) is a number without a decimal point. A float is a floating-point number, which means it is a number that has a decimal place
