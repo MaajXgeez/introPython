@@ -1,9 +1,9 @@
-# 1. In your on words, describe what a variable is.
+# 1. In your on words, describe what a variable is. a anything in place of a number
 
 # 2. Name three (3) operators we've learned about in class and describe 
-# a situation where you would use each one. 
+# a situation where you would use each one.  cd to change directory mkdir to make something cd.. to change directory forward
 
-# 3. Describe the difference between camal case and pascal case.
+# 3. Describe the difference between camal case and pascal case. pascal case requires the first letter of the first word to also be capitalized.
 
 # 4. Which operator is being used in the example below
 numberOfApples = 10
@@ -14,10 +14,11 @@ numberOfApples < numberOfOranges
 # 5. You have been given a $100.00 dollar gift card from a family member. Another 
 # family member adds 50.00 dollars to your gift card and a friend gives you $35.50. 
 # Your task is to create variables for each gift amount and a final variable that
-# represents the total amount of money on your gift card. 
+# represents the total amount of money on your gift card.  a b c d
 
 # 6. Create a variable that uses the input function and then print that variable. Your variable 
-# should ask a user to enter their name.  
+# should ask a user to enter their name.  print "whats your name" 
+
 
 # 7. You have been asked to create a program for a community center that wants to plan a cookout. 
 # The community center wants you to build a form program and capture several key data points. 
@@ -31,6 +32,6 @@ numberOfApples < numberOfOranges
 # have an allergy they can eat the regular bread. What data type would best be used in this 
 # scenario and how would you write a variable to represent this value?
 
-# 9. In your own words, describe what a program is?
+# 9. In your own words, describe what a program is?  set of instructions that a computer follows in order to perform a particular task
 
-# 10. Describe the difference between a float and an integer. 
+# 10. Describe the difference between a float and an integer. An integer (more commonly called an int) is a number without a decimal point. A float is a floating-point number, which means it is a number that has a decimal place
