@@ -1,15 +1,19 @@
-# 1. In your on words, describe what a variable is. a anything in place of a number
+# 1. In your on words, describe what a variable is. 
+the answer to 1 a variable is anything in place of a number
 
 # 2. Name three (3) operators we've learned about in class and describe 
-# a situation where you would use each one.  cd to change directory mkdir to make something cd.. to change directory forward
+# a situation where you would use each one.  
+answer to 2 cd to change directory mkdir to make something cd.. to change directory forward
 
-# 3. Describe the difference between camal case and pascal case. pascal case requires the first letter of the first word to also be capitalized.
+# 3. Describe the difference between camal case and pascal case. 
+answer to 3 pascal case requires the first letter of the first word to also be capitalized.
 
 # 4. Which operator is being used in the example below
 numberOfApples = 10
 numberOfOranges = 12
 
-numberOfApples < numberOfOranges the + operator is being used 
+numberOfApples < numberOfOranges 
+answer to 4 the + operator is being used 
 
 # 5. You have been given a $100.00 dollar gift card from a family member. Another 
 # family member adds 50.00 dollars to your gift card and a friend gives you $35.50. 
@@ -34,8 +38,8 @@ numberOfApples < numberOfOranges the + operator is being used
 # have an allergy they can eat the regular bread. What data type would best be used in this 
 # scenario and how would you write a variable to represent this value?
 
-# 9. In your own words, describe what a program is?  set of instructions that a computer follows in order to perform a particular task
+# 9. In your own words, describe what a program is? 
+answer to 9  set of instructions that a computer follows in order to perform a particular task
+#10. Describe the difference between a float and an integer. An integer 
 
-# 10. Describe the difference between a float and an integer. An integer 
-# 
- (more commonly called an int) is a number without a decimal point. A float is a floating-point number, which means it is a number that has a decimal place
+ 10 answer(more commonly called an int) is a number without a decimal point. A float is a floating-point number, which means it is a number that has a decimal place
